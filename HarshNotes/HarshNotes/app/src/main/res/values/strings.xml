@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HarshNotes</string>
+    <string name="add_btn">Add Btn</string>
+    <string name="title_text">Title</string>
+    <string name="text_text">Start typing</string>
+    <string name="save_text">Save</string>
+    <string name="save_btn">save btn</string>
+</resources>
